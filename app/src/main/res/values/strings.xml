@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator App</string>
+    <string name="bill_amount">BILL AMOUNT</string>
+    <string name="peso_hint">₱0.00</string>
+    <string name="tip">TIP</string>
+    <string name="total">TOTAL</string>
+    <string name="split">SPLIT</string>
+    <string name="total_per_person">TOTAL PER PERSON</string>
+    <string name="tip_percentage">%d%%</string>
+</resources>
